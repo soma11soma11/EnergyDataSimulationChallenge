@@ -1,5 +1,18 @@
 # EnergyDataSimulationChallenge
 
+In August 2015, I won a data analysis competition, and was offered a position as a machine learning engineer at Cambridge University for six months. During the competition, I wrote a machine learning program in Python to analyze energy consumption data for households. The focus of the position was to create aspects of a smart grid, allowing users to choose a suitable energy company.
+
+I completed challenge1 and challenge2. You can also find at 
+https://gist.github.com/soma11soma11/7439030d511cd4757b2078cf6f4f0c50
+
+
+
+
+
+
+
+
+
 Welcome to EnergyDataSimulationChallenge!
 This project is to challenge the analysis of big energy production data.
 We prepared several challenges.
